@@ -1,0 +1,10 @@
+
+{
+  "version": "1.0.0",
+  "minecraft": "1.20.1",
+  "loader": "forge",
+  "forge": "47.4.20",
+  "changelog": "Primera versión oficial de PianoSafio",
+  "download": "https://github.com/emicrako1111-ship-it/PianoSafio/releases/download/v1.0.0/PianoSafio.1.0.0.mrpack",
+  "sha256": "FFD26F2AD806E50712747B27B5A7D9042CF0A13336FE9BF5179C9EB09609E42A"
+}
